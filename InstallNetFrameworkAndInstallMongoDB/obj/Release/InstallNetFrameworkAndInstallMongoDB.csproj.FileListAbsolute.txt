@@ -1,0 +1,6 @@
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\InstallNetFrameworkAndInstallMongoDB\bin\Release\InstallNetFrameworkAndInstallMongoDB.exe.config
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\InstallNetFrameworkAndInstallMongoDB\bin\Release\InstallNetFrameworkAndInstallMongoDB.exe
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\InstallNetFrameworkAndInstallMongoDB\bin\Release\InstallNetFrameworkAndInstallMongoDB.pdb
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\InstallNetFrameworkAndInstallMongoDB\obj\Release\InstallNetFrameworkAndInstallMongoDB.csprojResolveAssemblyReference.cache
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\InstallNetFrameworkAndInstallMongoDB\obj\Release\InstallNetFrameworkAndInstallMongoDB.exe
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\InstallNetFrameworkAndInstallMongoDB\obj\Release\InstallNetFrameworkAndInstallMongoDB.pdb

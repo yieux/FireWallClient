@@ -1,0 +1,5 @@
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\InstallInstallMongoDB\bin\Release\InstallInstallMongoDB.exe.config
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\InstallInstallMongoDB\bin\Release\InstallInstallMongoDB.exe
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\InstallInstallMongoDB\bin\Release\InstallInstallMongoDB.pdb
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\InstallInstallMongoDB\obj\Release\InstallInstallMongoDB.exe
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\InstallInstallMongoDB\obj\Release\InstallInstallMongoDB.pdb

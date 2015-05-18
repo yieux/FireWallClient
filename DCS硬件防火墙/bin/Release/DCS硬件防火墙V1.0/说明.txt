@@ -1,0 +1,7 @@
+拷贝到之前的目录下即可
+
+先双击打开运行一次 DBNew，点击一下button1，生成新的数据库
+管理员：	admin   admin
+操作员：	user1	user1
+		suer2	suer2
+然后照常打开DCS硬件防火墙V1.0.exe即可

@@ -1,0 +1,6 @@
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\GetSerialPortMessage\bin\Release\GetSerialPortMessage.exe.config
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\GetSerialPortMessage\bin\Release\GetSerialPortMessage.exe
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\GetSerialPortMessage\bin\Release\GetSerialPortMessage.pdb
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\GetSerialPortMessage\obj\Release\GetSerialPortMessage.csprojResolveAssemblyReference.cache
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\GetSerialPortMessage\obj\Release\GetSerialPortMessage.exe
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙v1.0\GetSerialPortMessage\obj\Release\GetSerialPortMessage.pdb

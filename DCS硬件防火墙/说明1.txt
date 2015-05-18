@@ -1,0 +1,49 @@
+﻿空闲字节颜色为 180,210,255
+this.buttonX7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(180)))), ((int)(((byte)(210)))), ((int)(((byte)(255)))));
+占用字节颜色为 100,100,128
+this.colorCombControl3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(100)))), ((int)(((byte)(128)))));
+
+使能状态图标为 
+this.buttonX3.Symbol = "";
+不使能状态图标为 
+this.buttonX3.Symbol = "";
+发送按钮的图标
+this.buttonX1.Symbol = "";
+            this.buttonX1.SymbolColor = System.Drawing.Color.Blue;
+
+关于规则的groupPanel 所有相关
+InitializeComponent()
+{
+ this.groupPanel2.ResumeLayout(false);
+ this.groupPanel2 = new DevComponents.DotNetBar.Controls.GroupPanel();
+
+
+
+             // 
+            // groupPanel1
+            // 
+ this.groupPanel1.Controls.Add(this.groupPanel2);
+
+
+             // 
+            // groupPanel2
+            // 
+            this.groupPanel2.CanvasColor = System.Drawing.SystemColors.Control;
+            this.groupPanel2.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.Office2007;
+            this.groupPanel2.Controls.Add(this.buttonX3);
+            this.groupPanel2.Controls.Add(this.buttonX4);
+            this.groupPanel2.Controls.Add(this.colorCombControl28);
+			......
+            this.groupPanel2.Controls.Add(this.colorCombControl1_1);
+            this.groupPanel2.DisabledBackColor = System.Drawing.Color.Empty;
+            this.groupPanel2.Location = new System.Drawing.Point(0, 0);
+            this.groupPanel2.Name = "groupPanel2";
+            this.groupPanel2.Size = new System.Drawing.Size(180, 92);
+ }
+
+
+ private DevComponents.DotNetBar.Controls.GroupPanel groupPanel2;
+
+
+
+ 1.103~1.104 获取防火墙规则的线程同步

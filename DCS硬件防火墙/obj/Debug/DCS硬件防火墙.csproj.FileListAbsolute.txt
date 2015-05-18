@@ -1,0 +1,9 @@
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙\DCS硬件防火墙\bin\Debug\DCS硬件防火墙.exe.config
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙\DCS硬件防火墙\bin\Debug\DCS硬件防火墙.exe
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙\DCS硬件防火墙\bin\Debug\DCS硬件防火墙.pdb
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙\DCS硬件防火墙\obj\Debug\DCS硬件防火墙.csprojResolveAssemblyReference.cache
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙\DCS硬件防火墙\obj\Debug\DCS硬件防火墙.Form1.resources
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙\DCS硬件防火墙\obj\Debug\DCS硬件防火墙.Properties.Resources.resources
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙\DCS硬件防火墙\obj\Debug\DCS硬件防火墙.csproj.GenerateResource.Cache
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙\DCS硬件防火墙\obj\Debug\DCS硬件防火墙.exe
+D:\安全芯片组\硬件防火墙\DCS硬件防火墙\DCS硬件防火墙\obj\Debug\DCS硬件防火墙.pdb
